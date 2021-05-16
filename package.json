@@ -8,6 +8,9 @@
   "bin": {
     "oda": "bin/oda.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "oda",
     "oda-cli",

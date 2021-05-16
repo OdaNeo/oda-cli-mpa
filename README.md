@@ -5,5 +5,4 @@
 npm i -g @oda-cli-mpa/core
 oda npm project
 
-
 ```
