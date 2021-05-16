@@ -1,0 +1,27 @@
+{
+  "name": "@oda-cli-mpa/core",
+  "version": "1.0.0",
+  "description": "oda oda-cli mpa webpack",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "oda": "bin/oda.js"
+  },
+  "keywords": [
+    "oda",
+    "oda-cli",
+    "mpa",
+    "webpack"
+  ],
+  "author": "OdaNeo",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.0.0",
+    "ora": "^5.4.0"
+  },
+  "devDependencies": {}
+}
