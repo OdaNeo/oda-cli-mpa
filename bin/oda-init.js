@@ -15,7 +15,7 @@ if (program.args.length < 1) return program.help()
 
 // validate config
 let templateName = program.args[0]
-let projectName = program.args[1]
+let projectName = program.args[1] || 'project'
 
 if (!tplObj[templateName]) {
     console.log(chalk.red('\n Template does not exit! \n '))

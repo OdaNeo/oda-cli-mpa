@@ -1,8 +1,22 @@
 # oda-cli-mpa
 
 ```bash
+# install global
+npm i -g @oda-cli/mpa
 
-npm i -g @oda-cli-mpa/core
-oda npm project
+# init a mpa-project
+oda init mpa you-project-name
+
+# add template from github
+oda add
+
+# delete template
+oda add
+
+# template list
+oda list
+
+# help
+oda -h
 
 ```
