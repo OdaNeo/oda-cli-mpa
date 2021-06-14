@@ -1,5 +1,5 @@
 {
-  "name": "@oda-cli-mpa/core",
+  "name": "@oda-cli/mpa",
   "version": "1.0.0",
   "description": "oda oda-cli mpa webpack",
   "scripts": {
