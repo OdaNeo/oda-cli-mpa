@@ -1,4 +1,4 @@
-# oda-cli-mpa
+# @oda-cli/mpa
 
 ```bash
 # install global
